@@ -1,4 +1,4 @@
-<img src="link_to_your_banner_image" alt="Banner" width="600"/>
+<img src="https://thumbs.dreamstime.com/b/web-developer-design-concept-technology-icons-vector-illustration-eps-graphic-62575623.jpg" alt="Banner" width="600"/>
 <h1 align="center">Hi 👋, I'm Bilal ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
