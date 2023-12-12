@@ -1,5 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)](https://rishavchanda.io
+[![MasterHead](https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA)]
 )
 <h1 align="center">Hi 👋, I'm Bilal ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
